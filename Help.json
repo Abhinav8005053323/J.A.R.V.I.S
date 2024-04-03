@@ -1,0 +1,68 @@
+{
+  "settings": {
+    "assistant_details": {
+      "designation": "sir",
+      "name": "AJ Junior",
+      "version": "1.5.0",
+      "speed_of_speaking": 170,
+      "volume": 0.5,
+      "voice_gender": "male",
+      "voice_type": "sapi5"
+    },
+    "audio_paths": {
+      "poweroff_sound": "C:/Windows/Media/Windows Shutdown.wav",
+      "background_music": "C:/Users/Infort/OneDrive/Desktop/C programming Projects/Jarvis/Audios/bg.mp3",
+      "weather_audio": "C:/Users/Infort/OneDrive/Desktop/C programming Projects/Jarvis/Audios/whether.mp3"
+    }
+  },
+  "functions": {
+    "web_actions": [
+      "search on Google",
+      "open YouTube",
+      "open Google",
+      "open web browser",
+      "open Visual Studio Code",
+      "open Gmail",
+      "open Email",
+      "open files",
+      "open file explorer",
+      "open PPSSPP",
+      "open Sublime Text",
+      "open WhatsApp",
+      "open Instagram",
+      "open Facebook",
+      "open ChatGPT",
+      "open OpenAI overview",
+      "open OpenAI playground",
+      "make file",
+      "make file in the same directory",
+      "make file in specific directory",
+      "hide files",
+      "show files"
+    ],
+    "utility_actions": [
+      "get battery percentage",
+      "play power-off sound",
+      "shut down PC",
+      "lock screen",
+      "unlock screen",
+      "download audio from YouTube",
+      "get news",
+      "check weather",
+      "read Wikipedia summary"
+    ],
+    "greetings": [
+      "Hello",
+      "How are you?",
+      "Who are you?",
+      "What's your name?",
+      "Who made you?",
+      "What are you doing?",
+      "Coffee or tea?",
+      "Good",
+      "Nice",
+      "Better"
+    ],
+    "song": "play a song"
+  }
+}

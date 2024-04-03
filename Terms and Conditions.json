@@ -1,0 +1,46 @@
+{
+    "TermsAndConditions": {
+      "Service": "Jarvis AI",
+      "Description": "These Terms and Conditions govern your use of our artificial intelligence service, Jarvis AI.",
+      "LicenseAndUsage": {
+        "Title": "License and Usage",
+        "Details": "By using Jarvis AI, you agree to comply with these Terms and Conditions. Jarvis AI is provided for personal, non-commercial use only. You are granted a limited, non-exclusive, non-transferable license to use Jarvis AI solely for personal, non-commercial purposes. You may not use Jarvis AI for any unauthorized purpose or in any manner that violates these Terms."
+      },
+      "ProhibitedActivities": {
+        "Title": "Prohibited Activities",
+        "Details": "You may not use Jarvis AI for any malicious activities, including but not limited to hacking, spamming, or spreading malware. You may not abuse or harass Jarvis AI or other users. Any unauthorized use of Jarvis AI is strictly prohibited."
+      },
+      "IntellectualProperty": {
+        "Title": "Intellectual Property",
+        "Details": "All rights, title, and interest in and to Jarvis AI, including all associated intellectual property rights, belong to the owner. You may not copy, modify, or distribute Jarvis AI without prior written consent."
+      },
+      "PrivacyPolicy": {
+        "Title": "Privacy Policy",
+        "Details": "By using Jarvis AI, you agree to abide by the terms of our Privacy Policy. We collect and use personal information in accordance with applicable laws and regulations. We take appropriate measures to protect your privacy and confidentiality."
+      },
+      "Disclaimer": {
+        "Title": "Disclaimer",
+        "Details": "Jarvis AI is provided 'as is' without any warranty of any kind, express or implied. We do not guarantee the accuracy, completeness, or reliability of Jarvis AI, and we disclaim any liability for errors or omissions."
+      },
+      "LimitationOfLiability": {
+        "Title": "Limitation of Liability",
+        "Details": "We shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or in connection with your use of Jarvis AI. This includes but is not limited to loss of data, profits, or goodwill."
+      },
+      "ModificationOfTerms": {
+        "Title": "Modification of Terms",
+        "Details": "We reserve the right to modify these Terms at any time without prior notice. Any changes will be effective immediately upon posting. Your continued use of Jarvis AI after the changes constitutes acceptance of the modified Terms."
+      },
+      "Termination": {
+        "Title": "Termination",
+        "Details": "We may terminate or suspend your access to Jarvis AI at any time, without prior notice or liability, for any reason whatsoever."
+      },
+      "GoverningLaw": {
+        "Title": "Governing Law",
+        "Details": "These Terms shall be governed by and construed in accordance with the laws of [Your Jurisdiction]. Any disputes arising out of or relating to these Terms shall be resolved exclusively in the courts of [Your Jurisdiction]."
+      },
+      "Contact": {
+        "Title": "Contact Us",
+        "Details": "If you have any questions or concerns about these Terms, please contact us at [Your Contact Information]."
+      }
+    }
+  }
